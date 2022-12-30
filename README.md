@@ -1,0 +1,5 @@
+# MINST
+
+```
+npx serve
+``` 
